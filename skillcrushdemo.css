@@ -1,0 +1,78 @@
+body {
+	background:url(https://skillcrush.com/wp-content/themes/skillcrush3.0-child/img/homepage/homepage-back-a.jpg) no-repeat center center fixed;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	min-height:1000px;
+}
+
+.navbar {
+    background-color:transparent;
+    border-color:transparent;
+    background-image:none;
+    box-shadow:none;  
+}
+
+.container {
+	text-align: center;
+	padding-top:40px;
+}
+
+.head1 {
+	font-size:65px;
+	font-weight: bold;
+	margin:0;
+	padding:0;
+	color:#3B3B3B;
+	line-height:1.0;
+}
+
+.head2 {
+	font-size:26px;
+	font-weight:normal;
+	color:#3B3B3B;
+	padding-top:30px;
+}
+
+.head3 {
+	font-size:26px;
+	font-weight:bold;
+	color:#3B3B3B;
+	padding-top:50px;
+}
+
+.homeform {
+	padding-top: 15px;
+}
+
+.btn-default {
+	background-color:#F16059;
+	color:#FFF;
+}
+
+#errormsg {
+	margin-top:20px;
+	color:#F16059;
+	font-size:16px;
+}
+
+.navbar-nav>li>a {
+    margin-top: 13px;
+    margin-bottom: 13px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.navbar-nav>li>.btna {
+	border:1px solid black;
+	border-radius:0;
+	padding-left: 6px;
+	padding-right: 6px;
+	margin-right: 10px;
+	margin-left:9px;
+}
+
+.input-lg {
+	font-size:22px;
+}
