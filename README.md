@@ -1,1 +1,1 @@
-# skillcrushdemo
+# Responsive version of Skillcrush homepage using bootstrap and javascript
